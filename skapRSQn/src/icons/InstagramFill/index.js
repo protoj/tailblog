@@ -1,0 +1,1 @@
+export { InstagramFill } from "./InstagramFill";
